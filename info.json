@@ -1,9 +1,9 @@
 {
-  "author": "<%= author %>",
-  "demoUrl": "<%= demoUrl %>",
-  "title": "<%= appName %>",
-  "github": "<%= github %>",
-  "demoSnippet": "{{__snippet__}}",
-  "controlUrl": "{{__control__}}",
-  "configUrl": "{{__config__}}"
+  "author": "liujianchao1",
+  "demoUrl": "http://jdc.jd.com/demo/ambient/particle-link/",
+  "title": "particle-link",
+  "github": "https://github.com/o2team-ambient/particle-link",
+  "demoSnippet": "<link href=\"//storage.jd.com/ambient/styles-particle-link.css?t=1531140982000\" rel=\"stylesheet\"></link><!-- S 主体内容 -->\n  <div class=\"o2team_ambient_main\">\n  </div>\n  <script src=\"https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js\"></script>\n  <!-- E 主体内容 --><script src=\"//storage.jd.com/ambient/bundle-particle-link.js?t=1531140982000\"></script>",
+  "controlUrl": "//storage.jd.com/ambient/control-particle-link.js?t=1531140982000",
+  "configUrl": "//storage.jd.com/ambient/config-particle-link.js?t=1531140982000"
 }
