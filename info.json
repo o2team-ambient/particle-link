@@ -2,6 +2,7 @@
   "author": "liujianchao1",
   "demoUrl": "http://jdc.jd.com/demo/ambient/particle-link/",
   "title": "particle-link",
+  "ambName": "磁性粒子",
   "github": "https://github.com/o2team-ambient/particle-link",
   "demoSnippet": "<link href=\"//storage.jd.com/ambient/styles-particle-link.css?t=1547714685000\" rel=\"stylesheet\"></link><!-- S 主体内容 -->\n  <div class=\"o2team_ambient_main\">\n  </div>\n  <script src=\"https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js\"></script>\n  <!-- E 主体内容 --><script src=\"//storage.jd.com/ambient/bundle-particle-link.js?t=1547714685000\"></script>",
   "controlUrl": "//storage.jd.com/ambient/control-particle-link.js?t=1547714685000",
