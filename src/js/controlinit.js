@@ -68,7 +68,7 @@ let controlInit = () => {
       const gui = this.gui
       const config = this.config
       const texturesFolder = gui.addFolder('纹理')
-      ttexturesFolder.add(config, 'textures').name(`纹理列表`).onFinishChange(val => {
+      ttexturesFolder.addGroup(config, 'textures').name(`纹理列表`).onFinishChange(val => {
         this.resetCanvas()
       })
       texturesFolder.open()
