@@ -3,6 +3,7 @@ import {
   O2_AMBIENT_CONFIG
 } from '../utils/const'
 import forEach from 'lodash/forEach'
+import './particles'
 
 class Particle {
   constructor() {
@@ -132,7 +133,7 @@ class Particle {
     container.style.top = '0'
     container.style.width = `${this.width}px`
     container.style.height = `${this.height}px`
-    container.style.zIndex = -1
+    container.style.zIndex = 999
     container.style.pointerEvents = 'none'
     container.id = this.className
     this.parent.appendChild(container)
