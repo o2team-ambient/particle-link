@@ -1,6 +1,6 @@
 {
-  "name": "@o2team/ambient-particle-link",
-  "version": "1.0.1",
+  "name": "@o2team/ambient-particle_link",
+  "version": "1.0.0",
   "description": "夸克动效库-磁性粒子",
   "main": "dist/index.min.js",
   "scripts": {

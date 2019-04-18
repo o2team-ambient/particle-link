@@ -1,11 +1,11 @@
 ## 使用方法
 
 ```
-jnpm i @o2team/ambient-particle-link --save
+jnpm i @o2team/ambient-particle_link --save
 ```
 
 ```javascript
-import ATAmbient from '@o2team/ambient-particle-link'
+import ATAmbient from '@o2team/ambient-particle_link'
 
 ATAmbient({
   particleNumber: 25,
@@ -24,7 +24,7 @@ ATAmbient({
 
 ## 预览地址
 
-https://o2team-ambient.github.io/particle-link/dist/?controller=1
+https://o2team-ambient.github.io/particle_link/dist/?controller=1
 
 ## 项目结构
 
