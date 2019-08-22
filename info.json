@@ -5,9 +5,9 @@
   "title": "particle_link",
   "ambName": "磁性粒子",
   "github": "https://github.com/o2team-ambient/particle_link",
-  "demoSnippet": "<link href=\"//storage.jd.com/ambient/styles-particle_link.css?t=1565787270000\" rel=\"stylesheet\"></link><!-- S 主体内容 -->\n  <div class=\"o2team_ambient_main\"></div>\n  <!-- E 主体内容 --><script src=\"//storage.jd.com/ambient/bundle-particle_link.js?t=1565787270000\"></script>",
-  "controlUrl": "//storage.jd.com/ambient/control-particle_link.js?t=1565787270000",
-  "configUrl": "//storage.jd.com/ambient/config-particle_link.js?t=1565787270000",
+  "demoSnippet": "<link href=\"//storage.jd.com/ambient/styles-particle_link.css?t=1566462466000\" rel=\"stylesheet\"></link><!-- S 主体内容 -->\n  <div class=\"o2team_ambient_main\"></div>\n  <!-- E 主体内容 --><script src=\"//storage.jd.com/ambient/bundle-particle_link.js?t=1566462466000\"></script>",
+  "controlUrl": "//storage.jd.com/ambient/control-particle_link.js?t=1566462466000",
+  "configUrl": "//storage.jd.com/ambient/config-particle_link.js?t=1566462466000",
   "placeholderImg": "//storage.jd.com/ambient/particle-link_placeholder.png?t=1554276895000",
   "spriteImg": "//storage.jd.com/ambient/particle-link_sprite.png?t=1554276895000"
 }
